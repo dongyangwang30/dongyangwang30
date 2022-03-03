@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Dongyang Wang
+
+I’m a(n)
+- 📚 Aspiring Data Scientist
+- 🎸 Guitar Player & Music Maker
+- 🏓 Ping-Pong & Pool Lover
 
 <!--
 **dongyangwang30/dongyangwang30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
