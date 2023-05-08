@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Dongyang Wang. I’m a(n)
+### Hi there 👋 I'm Dongyang Wang. I’m a
 
-- 📚 Aspiring Data Scientist
+- 📚 Data Scientist
+- ✨ Independent Thinker
 - 🎸 Guitar Player & Music Maker
 - 🏓 Ping-Pong & Pool Lover
 
